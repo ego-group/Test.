@@ -1,0 +1,18 @@
+06.30 10:29 AM
+<DOCTYPE! html>
+<html>
+<head>
+<body style="background-color:white;"></body>
+<title>pratice</title>
+<h1 style> pratice </h1>
+<hr></hr>
+<p style="color:red;"> pratice is good? </p>
+<p> yes </p>
+<p>hello</p>
+<h1 style="color:blue">NO PRATICEIS ONLY WAY TO SUCESS NOT EGO YES EGO IS FAILED BUT E.G.O NEVER.</h1>
+<image><source src "vv.mp4"></image>
+</head>
+</body>
+
+
+
